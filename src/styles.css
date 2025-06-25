@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.search-list {
+  border: 1px solid black;
+  border-bottom: 0px solid black;
+  max-height: 1600px;
+  margin: 10px;
+  padding: 10px;
+}
+.each-items {
+  border-bottom: 1px solid black;
+  padding: 5px;
+  cursor: pointer;
+}
+.each-items:hover {
+  background-color: aquamarine;
+}
